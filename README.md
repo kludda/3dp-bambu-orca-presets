@@ -1,1 +1,1 @@
-sliser prests in branches
+C:\Users\[USER]\AppData\Roaming\BambuStudio\user\[NUMBER]
