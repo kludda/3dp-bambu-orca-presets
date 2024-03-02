@@ -1,0 +1,13 @@
+{
+    "additional_cooling_fan_speed": [
+        "0"
+    ],
+    "filament_settings_id": [
+        "Bambu PLA Basic @BBL X1C - Aux OFF"
+    ],
+    "from": "User",
+    "inherits": "Bambu PLA Basic @BBL X1C",
+    "is_custom_defined": "0",
+    "name": "Bambu PLA Basic @BBL X1C - Aux OFF",
+    "version": "1.8.0.13"
+}
