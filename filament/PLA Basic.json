@@ -1,0 +1,16 @@
+{
+    "additional_cooling_fan_speed": [
+        "20"
+    ],
+    "filament_max_volumetric_speed": [
+        "18"
+    ],
+    "filament_settings_id": [
+        "PLA Basic"
+    ],
+    "from": "User",
+    "inherits": "Bambu PLA Basic @BBL X1C",
+    "is_custom_defined": "0",
+    "name": "PLA Basic",
+    "version": "1.8.0.13"
+}
