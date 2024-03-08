@@ -1,0 +1,13 @@
+{
+    "filament_max_volumetric_speed": [
+        "18"
+    ],
+    "filament_settings_id": [
+        "PLA Generic"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "PLA Generic",
+    "version": "1.8.0.13"
+}
