@@ -21,6 +21,7 @@
     "sparse_infill_density": "100%",
     "sparse_infill_pattern": "zig-zag",
     "sparse_infill_speed": "300",
+    "support_object_xy_distance": "0.8",
     "support_on_build_plate_only": "1",
     "support_top_z_distance": "0.1",
     "top_shell_layers": "1",
