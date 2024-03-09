@@ -25,6 +25,7 @@
     "support_top_z_distance": "0.1",
     "top_shell_layers": "1",
     "top_shell_thickness": "0",
+    "top_surface_speed": "150",
     "version": "1.8.0.13",
     "wall_loops": "1"
 }
