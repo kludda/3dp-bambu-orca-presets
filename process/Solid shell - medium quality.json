@@ -1,6 +1,5 @@
 {
     "bottom_shell_layers": "1",
-    "bridge_flow": "0.9",
     "bridge_no_support": "1",
     "bridge_speed": "20",
     "brim_type": "no_brim",
@@ -26,7 +25,6 @@
     "support_top_z_distance": "0.1",
     "top_shell_layers": "1",
     "top_shell_thickness": "0",
-    "top_surface_speed": "150",
     "version": "1.8.0.13",
     "wall_loops": "1"
 }
